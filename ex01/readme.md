@@ -13,3 +13,5 @@ In this example we are going to investigate the byfn.sh script and play with the
 2. Analyse the chaincode. Find out which transactions can be done.
 3. Use the cli container to interact with the chaincode.
 4. Stop the byfn.sh script and start it again. Are you data still available?
+
+[Results](./results.md)
